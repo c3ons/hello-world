@@ -3,6 +3,7 @@ first repo
 
 ---------
 
-Hejllo!
+Hejllo
 -----
 
+added update
